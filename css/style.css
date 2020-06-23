@@ -67,7 +67,7 @@ header nav{
  }
 
  #showcase{
- 	min-height: 400px;
+ 	min-height: 750px;
  	background: url("Polish_20200516_112222577.jpg") no-repeat;
  	text-align: center;
  	background-position: center;
@@ -95,8 +95,8 @@ header nav{
 	font-size: 15px; 
 }
 #boxes img{
-	height: 200px;
-	width: 250px;
+	height: 250px;
+	width: 300px;
 }
 footer{
 	padding: 20px;
