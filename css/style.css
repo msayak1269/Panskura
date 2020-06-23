@@ -67,58 +67,22 @@ header nav{
  }
 
  #showcase{
- 	min-height: 600px;
+ 	min-height: 400px;
  	background: url("Polish_20200516_112222577.jpg") no-repeat;
  	text-align: center;
  	background-position: center;
  	background-size: contain;
  	width: 100%;
- 	color: #35424a;;
+ 	color: #35424a;
  	align-items: center;
  }
- #showcase .txt{
- 	position: absolute;
- 	left: 50%;
- 	top: 55%;
- 	transform: translate(-50%,-50%);
- 	width: 1000px;
- 	height: 400px;
- 	background:hsla(0, 100%, 30%, 0.6);;
- 	box-shadow: 0px 4px 16px;
- 	color:#ffffff;
- }
-  #showcase .txt h1{
-  	text-align: center;
-  	margin-top: 100px;
-  	font-size:55px;
-  	font-weight: bold;
-  }
 
-  #showcase .txt p{
-  	font-size: 25px;
-  	font-weight: bold;
-  }
+ 
   #newslater{
   	padding:15px;
   	background: #35424a;
-  }
-
-  #newslater h1{
-  	float: left;
   	color: #ffffff;
   }
-
- #newslater form{
- 	margin-top: 20px;
-  	float:right;
-  	margin-left: 55px;
-  } 
-
-  #newslater input[type="email"]{
-  	padding: 4px;
-  	height: 25px;
-  	width: 250px;
-  } 
 
 #boxes{
 	margin-top: 20px;
